@@ -1,9 +1,11 @@
 # Початок роботи з Python
 Про те як встановити Python та запустити інтерпретатор.
+**[Link](#Python-інтерпретатор-на-Mac)**
 
 ## Встановлення на Windows
 Зайди на https://www.python.org/downloads/
 Натисни на "Download Python", після цьго на твій комп'ютер буде завантажений файл установки Python.
+Обов'язково постав галочку на пункті "Add Python3.8 to PATH".
 
 ![](../img/wn_installation_screen.png)__
 
@@ -44,7 +46,7 @@ sudo apt install python3.8
 ![](../img/ub_interpreter.png)
 
 
-## Встановлення на Mac
+## Встановлення на MacOS
 Запусти термінал ось як це можна [зробити](https://apple.co/3cAFyRh).
 Для початку перевір чи в тебе встановлений `brew`, для цього запусти наступну команду
 ```
