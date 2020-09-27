@@ -9,17 +9,17 @@
 Натисни на "Download Python", після цьго на твій комп'ютер буде завантажений файл установки Python.
 Обов'язково постав галочку на пункті "Add Python3.8 to PATH".
 
-![](../img/wn_installation_screen.png)__
+![](img/wn_installation_screen.png)__
 
 ## Python інтерпретатор в Windows
 Для того щоб запустити інтерпретор назми клавішу "win" і напиши "Python".
 Запусти програму яку воно знайшло, це і є інтерпретатор.
 
-![](../img/wn_run_interpreter.png)
+![](img/wn_run_interpreter.png)
 
 Вигляд інтерпретатора в Windows.
 
-![](../img/wn_interpreter.png)
+![](img/wn_interpreter.png)
 
 ## Встановлення на Ubuntu
 Запусти термінал, це можна зробити за допомогою команди `ctrl+alt+t`.
@@ -45,7 +45,7 @@ sudo apt install python3.8
 Зразок вигляду інтерпретатора, термінал може виглядати по різному в залежності від налаштувань
 системи
 
-![](../img/ub_interpreter.png)
+![](img/ub_interpreter.png)
 
 
 ## Встановлення на MacOS
@@ -67,4 +67,4 @@ brew upgrade python
 Запусти термінал та введи `python3.8`.
 Зразок вигляду інтерпретатора.
 
-![](../img/mac_int.png)
+![](img/mac_int.png)
