@@ -9,7 +9,7 @@
 Натисни на "Download Python", після цьго на твій комп'ютер буде завантажений файл установки Python.
 Обов'язково постав галочку на пункті "Add Python3.8 to PATH".
 
-![](img/wn_installation_screen.png)__
+![](img/wn_installation_screen.png)
 
 ## Python інтерпретатор в Windows
 Для того щоб запустити інтерпретор назми клавішу "win" і напиши "Python".
